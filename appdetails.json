@@ -18,6 +18,6 @@
   "free":[ 
     {"id":0, "file":0, "city":"Эссен","country":"Германия","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"}, 
     {"id":1, "file":0, "city":"Гамбург","country":"Германия","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"}, 
-    {"id":2, "file":1, "city":"Лос-Анджелес, Калифорния","country":"США","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"} 
+    {"id":2, "file":1, "city":"Лос-Анджелес, Калифорния","country":"США","image":"unitedstates","ip":"194.58.40.228","active":"true","signal":"c"} 
   ] 
 }
